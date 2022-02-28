@@ -7,3 +7,6 @@ This project was built using:
 
 ### Screenshot
 ![](./screenshot.png)
+
+### Link
+Live Site URL: [D3 Choropleth Map](https://tomwf.github.io/FCC-choropleth-map/)
