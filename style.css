@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#chart {
+  width: 960px;
+  height: 600px;
+  overflow: visible;
+  margin: 0 auto;
+}
+
+svg {
+  position: relative;
+}
+
+#tooltip {
+  position: absolute;
+  padding: 1em;
+  background-color: rgba(255, 255, 204, 0.9);
+}
